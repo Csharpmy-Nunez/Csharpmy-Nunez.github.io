@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.464809db9c79d6d71e6d266dd47554b5.css"],"names":[],"mappings":"AACA,QACC,aAAwB,CACxB,AAED,wBAAwB,kBAAoB,CAC3C","file":"app.464809db9c79d6d71e6d266dd47554b5.css","sourcesContent":["\ni:hover{\n color: rgb(110, 33, 62);\n}\n\n.email[data-v-551a147d]{padding-right: 10px;\n}\n"]}
